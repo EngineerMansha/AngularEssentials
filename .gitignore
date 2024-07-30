@@ -1,0 +1,42 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+angular-17/dist
+angular-17/tmp
+angular-17/out-tsc
+angular-17/bazel-out
+
+# Node
+angular-17/node_modules
+angular-17/npm-debug.log
+angular-17/yarn-error.log
+
+# IDEs and editors
+angular-17/.idea/
+angular-17/.project
+angular-17/.classpath
+angular-17/.c9/
+angular-17/*.launch
+angular-17/.settings/
+angular-17/*.sublime-workspace
+
+# Visual Studio Code
+angular-17/.vscode/*
+!angular-17/.vscode/settings.json
+!angular-17/.vscode/tasks.json
+!angular-17/.vscode/launch.json
+!angular-17/.vscode/extensions.json
+angular-17/.history/*
+
+# Miscellaneous
+angular-17/.angular/cache
+angular-17/.sass-cache/
+angular-17/connect.lock
+angular-17/coverage
+angular-17/libpeerconnection.log
+angular-17/testem.log
+angular-17/typings
+
+# System files
+angular-17/.DS_Store
+angular-17/Thumbs.db
